@@ -7,3 +7,4 @@ Debug/dsEngine.vcxproj.FileListAbsolute.txt
 *.pdb
 src/Debug/dsEngine.vcxproj.FileListAbsolute.txt
 dsEngine.ilk
+/packages
