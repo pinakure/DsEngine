@@ -5,3 +5,5 @@
 Debug/dsEngine.vcxproj.FileListAbsolute.txt
 *.idb
 *.pdb
+src/Debug/dsEngine.vcxproj.FileListAbsolute.txt
+dsEngine.ilk
