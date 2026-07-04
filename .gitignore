@@ -1,0 +1,7 @@
+*.obj
+*.log
+*.recipe
+*.tlog
+Debug/dsEngine.vcxproj.FileListAbsolute.txt
+*.idb
+*.pdb
